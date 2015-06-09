@@ -10,3 +10,4 @@ The code is heavily documented so if you know Meteor and Famo.us you should have
 
 problem following along.
 
+See it working here: http://tutlab-famousreactive.meteor.com
